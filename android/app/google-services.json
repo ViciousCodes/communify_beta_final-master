@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "465783089846",
+    "firebase_url": "https://communify-acda2-default-rtdb.firebaseio.com",
+    "project_id": "communify-acda2",
+    "storage_bucket": "communify-acda2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465783089846:android:21aa4a053cbee82937d417",
+        "android_client_info": {
+          "package_name": "com.example.communify_beta_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465783089846-av1em029jqr1f8dcmre8alfrldkgspnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqPKTYA7VC1TaMuvZ_xXbktJaUiSIv6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465783089846-av1em029jqr1f8dcmre8alfrldkgspnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465783089846-2ga9ugocs461c4i1mnsikt8tb7n6ijoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.communifyBetaFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465783089846:android:de5a44a658109a0537d417",
+        "android_client_info": {
+          "package_name": "com.example.communify_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465783089846-av1em029jqr1f8dcmre8alfrldkgspnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqPKTYA7VC1TaMuvZ_xXbktJaUiSIv6OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465783089846-av1em029jqr1f8dcmre8alfrldkgspnk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465783089846-2ga9ugocs461c4i1mnsikt8tb7n6ijoa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.communifyBetaFinal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

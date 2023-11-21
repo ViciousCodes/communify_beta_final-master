@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>465783089846-c576kv3bnmnfleeqtuvi3updhl85kbir.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.465783089846-c576kv3bnmnfleeqtuvi3updhl85kbir</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsXC8YX-2V3DXxHzDXOnWODuR2UMJfOuM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>465783089846</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.communifyBetaFinal</string>
+	<key>PROJECT_ID</key>
+	<string>communify-acda2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>communify-acda2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:465783089846:ios:859119d5b2451bd637d417</string>
+	<key>DATABASE_URL</key>
+	<string>https://communify-acda2-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
